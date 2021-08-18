@@ -1,0 +1,4 @@
+specVersion: '2.5'
+metadata:
+  name: "sap.m.sample.InputSuggestionsOpenSearch"
+type: application
